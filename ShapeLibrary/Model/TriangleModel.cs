@@ -8,9 +8,9 @@ namespace ShapeLibrary.Model
 {
     public class TriangleModel
     {
-        public int A { get; }
-        public int B { get; }
-        public int C { get; }
+        public double A { get; }
+        public double B { get; }
+        public double C { get; }
         public bool RectangularTriangle { get; set; }
 
         public TriangleModel(int a, int b, int c)
