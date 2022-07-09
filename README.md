@@ -1,1 +1,2 @@
-# mindbox_start_test
+# mindbox
+Тестовое задание для компании mindbox.
